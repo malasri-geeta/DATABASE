@@ -12,7 +12,6 @@
    ```
 2. Install dependencies:
    ```powershell
-   cd server
    npm install
    ```
 3. Start the server:
